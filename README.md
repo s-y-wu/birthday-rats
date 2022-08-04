@@ -1,6 +1,6 @@
 # birthday-rats 🎂🐀
 
-Enter your name to create an original audio file of the ["Rats Birthday Remix"](https://youtu.be/vdVnnMOTe3Q) that sings to you!
+Customize the ["Rats Birthday Remix"](https://youtu.be/vdVnnMOTe3Q) with your own name!
 
 ## Instructions 
 1. Download and run the Jupyter notebook
